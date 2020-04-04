@@ -73,3 +73,5 @@ set expandtab
 set listchars=space:·
 set list
 
+set noswapfile
+

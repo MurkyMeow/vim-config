@@ -1,7 +1,9 @@
 # Ignore everything
 *
 
-# But not these files
+# But these files
 !.vimrc
 !.gitignore
-
+!README.md
+!autoload
+!autoload/*
